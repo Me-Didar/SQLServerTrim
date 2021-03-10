@@ -1,0 +1,2 @@
+UPDATE Table
+SET Name = RTRIM(LTRIM(Name))
